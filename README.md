@@ -2,8 +2,8 @@
 基于Vue的前后端分离仿小米商城，MySql+Vue+Vue-Router+Vuex+Element-ui+axios
 
 演示视频链接：https://live.csdn.net/v/183900
-详询请加QQ：821898835，专业程序设计，承接商业项目和毕业设计
 
+详询QQ：821898835，微信：egvh56ufy7hh，承接商业项目和毕设
 
 项目简介
 
